@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1dvqXGSL6ctbzEA0ylaGFcSjCOob8Y6Oa/view?usp=sharing" alt="Devpth Logo" width="180" />
+  <img src="https://drive.google.com/file/d/1dvqXGSL6ctbzEA0ylaGFcSjCOob8Y6Oa/view" alt="Devpth Logo" width="180" />
 </p>
 
 <h1 align="center">Devpth</h1>
