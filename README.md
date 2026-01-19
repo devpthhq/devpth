@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Transforming how applications are built, deployed, and maintained.</strong><br/>
-  A global-first platform, born to scale worldwide.
+  <strong>Crafting modern SaaS solutions and Building next-gen platforms for enterprises around the world.</strong><br/>
+Founded in Canada, built for global impact.
 </p>
 
 ---
