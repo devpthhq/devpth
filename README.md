@@ -2,8 +2,6 @@
   <img src="devpth.png" alt="Devpth Logo" width="180" />
 </p>
 
-<h1 align="center">Devpth</h1>
-
 <p align="center">
   <strong>Transforming how applications are built, deployed, and maintained.</strong><br/>
   A global-first platform, born to scale worldwide.
