@@ -1,16 +1,69 @@
-# Devpth
+<p align="center">
+  <img src="https://drive.google.com/file/d/1dvqXGSL6ctbzEA0ylaGFcSjCOob8Y6Oa/view?usp=sharing" alt="Devpth Logo" width="180" />
+</p>
 
-Devpth | Building next-gen platforms for businesses worldwide. Canada-based startup launching globally.
+<h1 align="center">Devpth</h1>
 
-Devpth is building next-gen software platforms that empower businesses and developers worldwide to innovate faster, scale efficiently, and stay ahead of the curve.
+<p align="center">
+  <strong>Transforming how applications are built, deployed, and maintained.</strong><br/>
+  A global-first platform, born to scale worldwide.
+</p>
 
-🚀 Currently in active development.  
-🔧 Early-stage MVP under construction.  
-🌍 Focused on global impact.
+---
 
-Interested in contributing or following our journey? Star this repo and stay tuned for updates!
+## 🌍 About Devpth
 
+Devpth is building next-generation software platforms that empower businesses and developers to design, ship, and scale applications faster and more reliably.
 
+Founded with a global vision, Brand focuses on solving real-world engineering and operational challenges with modern, scalable, and thoughtfully designed solutions.
 
+---
 
+## 🚀 Current Status
 
+* 🔧 Actively under development
+* 🧪 Early-stage MVP in progress
+* 🌐 Built for global adoption from day one
+
+We’re laying the foundation for a platform that will evolve rapidly as we validate ideas, ship features, and learn from real users.
+
+---
+
+## 🧠 Vision
+
+We believe the future of software lies in:
+
+* Simpler developer experiences
+* Scalable-by-default architectures
+* Thoughtful design across the entire lifecycle
+
+Brand exists to push this future forward.
+
+---
+
+## 📦 What to Expect
+
+* Core platform development
+* Open discussions around architecture and design
+* Public progress as the product evolves
+
+More details coming soon.
+
+---
+
+## 🔗 Links
+
+* 🌐 Website: Coming soon
+* 🌍 Domains: Coming soon
+* ✉️ Contact: Coming soon
+
+---
+
+## 🤝 Get Involved
+
+If you’re interested in following the journey, contributing ideas, or collaborating in the future:
+
+⭐ Star this repository
+👀 Watch for updates
+
+We’re just getting started.
