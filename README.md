@@ -13,7 +13,7 @@ Founded in Canada, built for global impact.
 
 Devpth is building next-generation software platforms that empower businesses and developers to design, ship, and scale applications faster and more reliably.
 
-Founded with a global vision, Brand focuses on solving real-world engineering and operational challenges with modern, scalable, and thoughtfully designed solutions.
+Founded with a global vision, Devpth focuses on solving real-world engineering and operational challenges with modern, scalable, and thoughtfully designed solutions.
 
 ---
 
@@ -35,7 +35,7 @@ We believe the future of software lies in:
 * Scalable-by-default architectures
 * Thoughtful design across the entire lifecycle
 
-Brand exists to push this future forward.
+Devpth exists to push this future forward.
 
 ---
 
